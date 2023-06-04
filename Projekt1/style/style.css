@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Seymour+One&display=swap');
+body{
+background-color:rgb(170, 150, 150);
+font-family: 'Seymour One', sans-serif;
+}
+ 
+table{
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:60px;
+}
+ 
+.przyciskGry{
+  width:150px;
+  height:150px;
+  border:none;
+  background-color:#171a21;
+  color:#c5c3c0;
+  font-size:80px;
+  font-family: 'Seymour One', sans-serif;
+}
+ 
+.przyciskGry:hover{
+  cursor:pointer;
+  opacity:0.8;
+}
+ 
+td{
+  width:160px;
+  height:160px;
+  text-align:center;
+  padding:0px;
+}
+ 
+h1,h2{
+  color:#c5c3c0;
+  width:450px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+  text-transform:uppercase;
+}
